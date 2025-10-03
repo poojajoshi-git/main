@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+bcrypt
+reportlab
+opencv-python
+qrcode[pil]
